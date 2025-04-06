@@ -1,6 +1,6 @@
-Thanks for downloading this theme!
+Thanks for downloading this template!
 
-Theme Name: Vesperr
-Theme URL: https://bootstrapmade.com/vesperr-free-bootstrap-template/
-Author: https://bootstrapmade.com
-Published in: https://themewagon.com 
+Template Name: Vesperr
+Template URL: https://bootstrapmade.com/vesperr-free-bootstrap-template/
+Author: BootstrapMade.com
+License: https://bootstrapmade.com/license/
